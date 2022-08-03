@@ -1,4 +1,4 @@
-package com.hastings.edgev10.capabilities.number.dto
+package com.user.edgev10.capabilities.number.dto
 
 uses java.lang.Integer
 uses edgev10.jsonmapper.JsonProperty
