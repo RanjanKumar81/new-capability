@@ -1,4 +1,4 @@
-package com.hastings.edgev10.capabilities.number
+package com.user.edgev10.capabilities.number
 
 uses java.lang.Integer
 uses edgev10.di.annotations.ForAllNodes
