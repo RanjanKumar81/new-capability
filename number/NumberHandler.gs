@@ -1,10 +1,10 @@
-package com.hastings.edgev10.capabilities.number
+package com.user.edgev10.capabilities.number
 
 uses edgev10.jsonrpc.AbstractRpcHandler
 uses edgev10.di.annotations.InjectableNode
 uses edgev10.jsonrpc.annotation.JsonRpcUnauthenticatedMethod
-uses com.hastings.edgev10.capabilities.number.dto.InputReqDTO
-uses com.hastings.edgev10.capabilities.number.dto.ResponseDTO
+uses com.user.edgev10.capabilities.number.dto.InputReqDTO
+uses com.user.edgev10.capabilities.number.dto.ResponseDTO
 
 class NumberHandler extends AbstractRpcHandler {
   private var _primePlugin: IPrimeNumberPlugin
